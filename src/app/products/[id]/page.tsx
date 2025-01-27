@@ -7,7 +7,8 @@ const product = {
   id: 1,
     name: "Sun Conure chicks",
     price: "15000 PKR",
-    image: "/images/sun.jpg"
+    image: "/images/sun.jpg",
+  description:"Sun Conure chicks  age around 3 months on hand feed."
 };
 
 const relatedProducts = [
